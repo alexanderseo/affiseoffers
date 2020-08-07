@@ -1,0 +1,54 @@
+{
+  "status": 1,
+  "categories": [
+    {
+      "id": "5af2d63f8119804c008b461e",
+      "title": "Gambling"
+    },
+    {
+      "id": "5af2d6f581198049008b4627",
+      "title": "Betting"
+    },
+    {
+      "id": "5b6ae9998119804a008b46cc",
+      "title": "Binary Options"
+    },
+    {
+      "id": "5c444e1381198053008b4584",
+      "title": "Займы"
+    },
+    {
+      "id": "5cac5c5881198094008b459d",
+      "title": "Dating"
+    },
+    {
+      "id": "5cbfed7b81198078008b4577",
+      "title": "Forex"
+    },
+    {
+      "id": "5cf4c25781198065008b459a",
+      "title": "Товары"
+    },
+    {
+      "id": "5cf64415811980be008b459a",
+      "title": "Финансы"
+    },
+    {
+      "id": "5d80de078119808c008b4567",
+      "title": "Sweepstakes"
+    },
+    {
+      "id": "5de7d79581198099008b456a",
+      "title": "Adult"
+    },
+    {
+      "id": "5e283020811980ca008b4577",
+      "title": "Games"
+    }
+  ],
+  "pagination": {
+    "per_page": 100,
+    "total_count": 11,
+    "page": 1
+  }
+}
